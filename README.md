@@ -35,5 +35,6 @@ Reentry
 Miscellaneous changes
 * tweaked costs of some parts
 * increased the number of active contracts
+* gave the cupola an inventory since it is the only crewed part missing one
 * made Mk3 passenger module's "no checked luggage" claim accurate (removed the inventory)
 * made the nuclear engine heat up more so radiators are more of a requirement
